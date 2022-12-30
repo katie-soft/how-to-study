@@ -1,0 +1,13 @@
+@import url(./__link/header__link.css);
+@import url(./__main_illustration/header__main_illustration.css);
+@import url(./__square_pic/header__square_pic.css);
+@import url(./__subtitle/header__subtitle.css);
+@import url(./__title/header__title.css);
+
+.header {
+    min-height: 600px;
+    max-height: 756px;
+    position: relative;
+    padding: 64px 0 0 64px;
+    overflow: hidden;
+}
